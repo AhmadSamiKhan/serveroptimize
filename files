@@ -2,5 +2,3 @@
 /etc/apache2/extras/mpm_event.conf
 /etc/apache2/mods-enabled/mpm_event.conf
 /etc/php.confs/fpm/extras/cw_customization.conf
-/etc/mysql/conf.d/cw_mariadb_customization.cnf
-/etc/mysql/conf.d/cw_customization.cnf
